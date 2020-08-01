@@ -10,9 +10,11 @@ I successfully found the solution for FDTD algorithms and simulated the electric
 
  
  ### Source code
- <img width=50% src="https://github.com/parkyo/FDTD-Transmission-Line/blob/master/Picture1.png"/>
+https://github.com/parkyo/FDTD-Transmission-Line/blob/master/sourcecode.m
 
-The animations of the electric and magnetic fields can be viewed by clickin these links and 'raw' to downlaod the videos.
+
+### Result
+The animations of the electric and magnetic fields can be viewed by clicking these links and 'raw' to downlaod the videos.
 https://github.com/parkyo/FDTD-Transmission-Line/blob/master/FDTDmovie%20(E%20field).mov    <br>
 https://github.com/parkyo/FDTD-Transmission-Line/blob/master/FDTDmovie2%20(H%20field).mov
 
