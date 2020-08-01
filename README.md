@@ -1,8 +1,8 @@
 # FDTD-Transmission-Line
 #### Research Intern at Gwangju Institute of Science and Tech.
+<strong>Microwave Sensing and Imaging Lab</strong> : https://em.gist.ac.kr/
 > June/2018 - Aug/2018
 
-<strong>Microwave Sensing and Imaging Lab</strong> : https://em.gist.ac.kr/
 
 FDTD (<a href="https://en.wikipedia.org/wiki/Finite-difference_time-domain_method#:~:text=FDTD%20is%20a%20time%2Ddomain,obtained%20with%20a%20single%20simulation.">Finite Difference Time Domain</a>) is a numerical analysis technique used to simulate electromagnetic wave. This technique is important for building a <strong>self-driving car</strong> as it allows analyze the stabillity of the sensor LIDAR that detects obstacles.
 
